@@ -1,6 +1,8 @@
-# 👋 Hi, I'm [Ayoubhm213] 
+# Hi, I'm Kairox (Ayoub)
 
-🚀 **Developer** 🚀 **Discord Bot Creator** 
+## 🚀 Specializations:
+- **FiveM Development**: Custom scripts, frameworks, and server management
+- **Discord Bots**: Automation, moderation, and integration solutions
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Ayoubhm213&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ayoubhm213)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
